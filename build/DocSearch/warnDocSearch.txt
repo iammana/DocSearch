@@ -1,0 +1,18 @@
+missing module named resource - imported by posix, D:\Personal\Projects\Document_Search\DocSearch.py
+missing module named posix - imported by os, D:\Personal\Projects\Document_Search\DocSearch.py
+missing module named _posixsubprocess - imported by subprocess, D:\Personal\Projects\Document_Search\DocSearch.py
+missing module named StringIO - imported by six, D:\Personal\Projects\Document_Search\DocSearch.py
+excluded module named _frozen_importlib - imported by importlib, importlib.abc, D:\Personal\Projects\Document_Search\DocSearch.py
+missing module named _frozen_importlib_external - imported by importlib._bootstrap, importlib, importlib.abc, D:\Personal\Projects\Document_Search\DocSearch.py
+missing module named org - imported by pickle, D:\Personal\Projects\Document_Search\DocSearch.py
+missing module named readline - imported by cmd, code, pdb, D:\Personal\Projects\Document_Search\DocSearch.py
+missing module named _winreg - imported by platform, D:\Personal\Projects\Document_Search\DocSearch.py
+missing module named _scproxy - imported by urllib.request
+missing module named java - imported by platform, D:\Personal\Projects\Document_Search\DocSearch.py
+missing module named 'java.lang' - imported by platform, D:\Personal\Projects\Document_Search\DocSearch.py, xml.sax._exceptions
+missing module named vms_lib - imported by platform, D:\Personal\Projects\Document_Search\DocSearch.py
+missing module named termios - imported by tty, D:\Personal\Projects\Document_Search\DocSearch.py, getpass
+missing module named grp - imported by shutil, tarfile, pathlib, D:\Personal\Projects\Document_Search\DocSearch.py
+missing module named _dummy_threading - imported by dummy_threading, D:\Personal\Projects\Document_Search\DocSearch.py
+missing module named 'org.python' - imported by copy, D:\Personal\Projects\Document_Search\DocSearch.py, xml.sax
+missing module named pwd - imported by posixpath, shutil, tarfile, http.server, webbrowser, pathlib, D:\Personal\Projects\Document_Search\DocSearch.py, netrc, getpass

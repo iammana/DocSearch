@@ -10,6 +10,9 @@ parser.add_argument('-i', dest='case_option_sensitive', action='store_true', hel
 parser.add_argument('-w', dest='case_option_whole_words', action='store_true', help='if option is specified, whole-words only are searched')
 args = parser.parse_args()
 
+#Set antiword HOME path for windows build
+os.environ["HOME"] = "./"
+
 #import config file
 config = configparser.ConfigParser()
 config.read('init.ini')
