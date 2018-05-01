@@ -1,0 +1,46 @@
+Perform a batch search of .doc, .docx and .pdf files using python Textract
+
+Textract: https://github.com/deanmalmgren/textract
+
+====================================================================================
+
+usage: DocSearch [-h] [-i] [-w] N [N ...]
+
+Search the documents database
+
+positional arguments:
+  N           search terms seperated by a space
+
+optional arguments:
+  -h, --help  show this help message and exit
+  -i          if option is specified, the search is case sensitive
+  -w          if option is specified, whole-words only are searched
+  
+====================================================================================
+
+Set path to Documents folder in init.ini file
+
+====================================================================================
+
+Example of search query - not case sensitive + no whole words:
+./DocSearch ultraviolet
+
+Note: use ./DocSearch.exe for windows command
+
+Results log (to be found in search_results.txt) from query
+
+Results for ultraviolet :
+found ultraviolet in ../documents/Test_Document1.docx
+
+====================================================================================
+Example of search query - case sensite + whole words:
+./DocSearch Arduino -i -w
+
+Results log (to be found in search_results.txt) from query
+
+Results for Arduino :
+found Arduino in ../documents/Test_Document2.doc
+
+====================================================================================
+Windows distibrution available in windows branch
+Linux distribution available in linux branch
