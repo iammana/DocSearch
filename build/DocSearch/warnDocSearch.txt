@@ -1,0 +1,16 @@
+missing module named 'org.python' - imported by pickle, /mnt/d/Personal/Projects/Document_Search/DocSearch.py, xml.sax
+missing module named _winreg - imported by platform, /mnt/d/Personal/Projects/Document_Search/DocSearch.py
+missing module named java - imported by platform, /mnt/d/Personal/Projects/Document_Search/DocSearch.py
+missing module named 'java.lang' - imported by platform, /mnt/d/Personal/Projects/Document_Search/DocSearch.py, xml.sax._exceptions
+missing module named vms_lib - imported by platform, /mnt/d/Personal/Projects/Document_Search/DocSearch.py
+missing module named winreg - imported by platform, mimetypes, /mnt/d/Personal/Projects/Document_Search/DocSearch.py, urllib.request
+missing module named _scproxy - imported by urllib.request
+missing module named StringIO - imported by six, /mnt/d/Personal/Projects/Document_Search/DocSearch.py
+missing module named nt - imported by os, ntpath, shutil, pathlib, /mnt/d/Personal/Projects/Document_Search/DocSearch.py
+missing module named ce - imported by os, /mnt/d/Personal/Projects/Document_Search/DocSearch.py
+missing module named msvcrt - imported by subprocess, /mnt/d/Personal/Projects/Document_Search/DocSearch.py, getpass
+missing module named _winapi - imported by subprocess, /mnt/d/Personal/Projects/Document_Search/DocSearch.py
+missing module named _dummy_threading - imported by dummy_threading, /mnt/d/Personal/Projects/Document_Search/DocSearch.py
+excluded module named _frozen_importlib - imported by importlib, importlib.abc, /mnt/d/Personal/Projects/Document_Search/DocSearch.py
+missing module named _frozen_importlib_external - imported by importlib._bootstrap, importlib, importlib.abc, /mnt/d/Personal/Projects/Document_Search/DocSearch.py
+missing module named org - imported by copy, /mnt/d/Personal/Projects/Document_Search/DocSearch.py
